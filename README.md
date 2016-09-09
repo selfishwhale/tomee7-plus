@@ -1,11 +1,15 @@
 
 
+## TomEE Plus  7.0.1 
+ *@dannielwhatever*
 
 
+### Usage
+
+    docker run -d -p 9090:8080 -p 8443:8443 dannielwhatever/tomee7-plus
 
 
-##TomEE Plus  7.0.1 
-
+### Info
 
 users:
 tomee/tomee
@@ -16,14 +20,15 @@ ports:
 default 8080
 
 
-others:
+### Others
+
 - FooQueue
+- OpenJDK 1.7 / JEE 7 not certified
 
 
 
-### Usage
 
-    docker run -d -p 9090:8080 -p 8443:8443 dannielwhatever/tomee7-plus
+
 
 
 ~ kyaaa @dannielwhatever
