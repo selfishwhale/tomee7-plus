@@ -1,0 +1,18 @@
+<dependencies>
+  <dependency groupId="commons-codec" artifactId="commons-codec" version="1.10" file-name="commons-codec-1.10.jar"/>
+  <dependency groupId="org.apache.ivy" artifactId="ivy" version="2.3.0" file-name="ivy-2.3.0.jar"/>
+  <dependency groupId="org.codehaus.groovy" artifactId="groovy-jsr223" version="2.4.2" file-name="groovy-jsr223-2.4.2.jar">
+    <dependency groupId="org.codehaus.groovy" artifactId="groovy" version="2.4.2" file-name="groovy-2.4.2.jar"/>
+  </dependency>
+  <dependency groupId="org.webjars" artifactId="backbonejs" version="1.0.0" file-name="backbonejs-1.0.0.jar"/>
+  <dependency groupId="org.webjars" artifactId="bootstrap" version="3.1.0" file-name="bootstrap-3.1.0.jar"/>
+  <dependency groupId="org.webjars" artifactId="codemirror" version="3.21" file-name="codemirror-3.21.jar"/>
+  <dependency groupId="org.webjars" artifactId="handlebars" version="1.2.1" file-name="handlebars-1.2.1.jar"/>
+  <dependency groupId="org.webjars" artifactId="jquery" version="2.1.0-1" file-name="jquery-2.1.0-1.jar"/>
+  <dependency groupId="org.webjars" artifactId="json2" version="20110223" file-name="json2-20110223.jar"/>
+  <dependency groupId="org.webjars" artifactId="less" version="1.6.0-1" file-name="less-1.6.0-1.jar"/>
+  <dependency groupId="org.webjars" artifactId="requirejs" version="2.1.10" file-name="requirejs-2.1.10.jar"/>
+  <dependency groupId="org.webjars" artifactId="requirejs-text" version="2.0.10" file-name="requirejs-text-2.0.10.jar"/>
+  <dependency groupId="org.webjars" artifactId="underscore.string" version="2.3.0" file-name="underscore.string-2.3.0.jar"/>
+  <dependency groupId="org.webjars" artifactId="underscorejs" version="1.5.2-2" file-name="underscorejs-1.5.2-2.jar"/>
+</dependencies>

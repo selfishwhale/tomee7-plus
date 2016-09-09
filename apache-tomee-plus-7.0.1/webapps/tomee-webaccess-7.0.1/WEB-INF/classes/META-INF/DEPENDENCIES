@@ -1,0 +1,47 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+OpenEJB :: TomEE :: webaccess
+
+
+From: 'an unknown organization'
+  - Backbone.js (http://webjars.org) org.webjars:backbonejs:jar:1.0.0
+    License: MIT License  (http://github.com/documentcloud/backbone/blob/master/LICENSE)
+  - Bootstrap (http://webjars.org) org.webjars:bootstrap:jar:3.1.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - CodeMirror (http://webjars.org) org.webjars:codemirror:jar:3.21
+    License: MIT  (http://codemirror.net/LICENSE)
+  - Handlebars (http://webjars.org) org.webjars:handlebars:jar:1.2.1
+    License: Copyright (C) 2011 by Yehuda Katz  (https://github.com/wycats/handlebars.js/blob/master/LICENSE)
+  - jquery (http://webjars.org) org.webjars:jquery:jar:2.1.0-1
+    License: MIT License  (https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt)
+  - JSON2 (http://webjars.org) org.webjars:json2:jar:20110223
+    License: Public Domain  (https://github.com/douglascrockford/JSON-js/blob/master/json2.js)
+  - LESS (http://webjars.org/less) org.webjars:less:jar:1.6.0-1
+    License: Apache v2.0  (https://github.com/cloudhead/less.js/blob/master/LICENSE)
+  - requirejs (http://webjars.org) org.webjars:requirejs:jar:2.1.10
+    License: The "New" BSD License or MIT License  (https://github.com/jrburke/requirejs/blob/master/LICENSE)
+  - RequireJS Text (http://webjars.org) org.webjars:requirejs-text:jar:2.0.10
+    License: new BSD  (https://github.com/requirejs/text/blob/master/LICENSE)    License: MIT  (https://github.com/requirejs/text/blob/master/LICENSE)
+  - Underscore.string (http://webjars.org) org.webjars:underscore.string:jar:2.3.0
+    License: None  (https://github.com/epeli/underscore.string)
+  - Underscore.js (http://webjars.org) org.webjars:underscorejs:jar:1.5.2-2
+    License: Copyright (c) 2009-2012 Jeremy Ashkenas, DocumentCloud  (https://github.com/documentcloud/underscore/blob/master/LICENSE)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Codec (http://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Ivy (http://ant.apache.org/ivy/) org.apache.ivy:ivy:jar:2.3.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Codehaus' (http://codehaus.org)
+  - Groovy (http://groovy.codehaus.org/) org.codehaus.groovy:groovy:jar:2.4.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Groovy (http://groovy.codehaus.org/) org.codehaus.groovy:groovy-jsr223:jar:2.4.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
